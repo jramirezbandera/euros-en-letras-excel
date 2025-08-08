@@ -64,7 +64,7 @@ Tips:
 - **ALT+F11 no abre** → probablemente estás en **Excel Online** o la **app nueva** sin soporte VBA. Usa Excel de escritorio.
 
 ## 🤝 Contribuir
-- Acepta PRs y *issues* con mejoras, bugs o variantes (p. ej., céntimos en formato `00/100`).
+- Acepta PRs y *issues* con mejoras, bugs o variantes.
 
 ## 📄 Licencia
 MIT. Puedes usar, copiar y modificar libremente manteniendo el aviso de licencia.
